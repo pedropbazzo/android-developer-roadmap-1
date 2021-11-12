@@ -34,7 +34,7 @@ Agora você pode acessar [este arquivo](https://github.com/mobile-roadmap/androi
 
 Para ajudar você a acompanhar seu progresso, [@Fren1100](https://github.com/Fren1100) criou um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
 
-## Agradecimentos
+## Agradecimentos 
 
 Queremos agradecer a comunidade de desenvolvimento Android de todo o mundo que nos ajudou com diversas ideias, especialmente [Android Dev BR](https://github.com/androiddevbr). Sem vocês esse projeto não estaria tão robusto e completo quanto está.
 
